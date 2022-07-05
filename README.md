@@ -1,6 +1,6 @@
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺  Views  ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 
-<img align="center" src=![](https://komarev.com/ghpvc/?username=Kuucheen)>
+![](https://komarev.com/ghpvc/?username=Kuucheen)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuucheen&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
