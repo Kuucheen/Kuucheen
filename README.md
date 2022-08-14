@@ -1,4 +1,4 @@
-                                                Stats  
+### <p align="center">Stats</p>
 
 -----
 
