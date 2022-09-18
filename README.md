@@ -10,4 +10,4 @@
 
 <p align="right"> <img src="https://lanyard.cnrad.dev/api/173008713504784384"/> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kuucheen&color=CD0952"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kuucheen&color=CD0952"/> </p>
