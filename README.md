@@ -2,7 +2,7 @@
 
 -----
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kuucheen"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kuucheen&color=CD0952"/> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kuucheen&theme=dark&title_color=CD0952&border_color=2E343E&bg_color=2E343E"/> </p>
 
