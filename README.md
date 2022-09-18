@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kuucheen"/> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kuucheen&theme=dark&title_color=CD0952&border_color=CD0952&bg_color=2E343E"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kuucheen&theme=dark&title_color=CD0952&border_color=2E343E&bg_color=2E343E"/> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuucheen&layout=compact&theme=dark"/> </p>
 
