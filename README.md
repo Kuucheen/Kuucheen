@@ -6,9 +6,9 @@
 
 <p align="right"> <img width=500vw src="https://github-readme-stats.vercel.app/api?username=Kuucheen&theme=dark&title_color=CD0952&border_color=2E343E&bg_color=2E343E"/> </p>
 
+<a href="https://discord.com/users/173008713504784384"><img align="left" src="https://lanyard.cnrad.dev/api/173008713504784384"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kuucheen&color=CD0952"/> </p>
 
 <p align="left"> <img width=420vw src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuucheen&layout=compact&theme=dark&title_color=CD0952&border_color=2E343E&bg_color=2E343E"/> </p>
-
-<a href="https://discord.com/users/173008713504784384"><img align="left" src="https://lanyard.cnrad.dev/api/173008713504784384"/></a>
 
