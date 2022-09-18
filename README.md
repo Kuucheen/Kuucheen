@@ -8,6 +8,8 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuucheen&layout=compact&theme=dark&title_color=CD0952&border_color=2E343E&bg_color=2E343E"/> </p>
 
+<a href="https://discord.com/users/173008713504784384"><img align="right" src="https://lanyard.cnrad.dev/api/173008713504784384" /></a>
+
 <p align="right"> <img src="https://lanyard.cnrad.dev/api/173008713504784384"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kuucheen&color=CD0952"/> </p>
