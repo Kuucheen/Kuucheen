@@ -2,7 +2,7 @@
 
 -----
 
-<a href="https://discord.com/users/173008713504784384"><img align="left" src="https://lanyard.cnrad.dev/api/173008713504784384" /></a>
+<a href="https://discord.com/users/173008713504784384"><img align="left" src="https://lanyard.cnrad.dev/api/173008713504784384"/></a>
 
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Kuucheen&theme=dark&title_color=CD0952&border_color=2E343E&bg_color=2E343E"/> </p>
 
