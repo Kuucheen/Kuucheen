@@ -1,14 +1,17 @@
-### <p align="center">Stats</p>
+<div style="text-align: center; margin-top: 25px; margin-bottom: 25px">
+  <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" style="width: 25px" alt="loading git guy">
 
------
+  [![My Skills](https://skillicons.dev/icons?i=idea,python,java,angular,ps,html,css,js,ts,ai&perline=5)](https://skillicons.dev)
+</div>
+
+---
+<details>
+  <summary style="margin-bottom: 10px">Github Stats 🍁️</summary>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuucheen&theme=tokyonight&count_private=true&line_height=20&hide_border=true" alt="Github stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuucheen&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Top languages">
+
+</details>
 
 <!--
-
-<a href="https://discord.com/users/173008713504784384"><img align="center" src="https://lanyard.cnrad.dev/api/173008713504784384?theme=dark&bg=2E343E"/></a>
-
--->
-<p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuucheen&hide_border=true&background=2E343E&stroke=393e48&ring=CD0952&fire=CD0952&currStreakNum=C0C6DB&sideNums=C0C6DB&currStreakLabel=CD0952&sideLabels=C0C6DB&dates=586069" alt="kuucheen" /></p>
-
-<p align="center"> <img width=500vw src="https://github-stats-alpha.vercel.app/api?username=Kuucheen&cc=2E343E&tc=fff&ic=CD0952&bc=2E343E"/> </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kuucheen&color=CD0952"/> </p>
+<img src="https://komarev.com/ghpvc/?username=Kuucheen"/>
