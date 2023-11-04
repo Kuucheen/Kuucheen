@@ -1,4 +1,4 @@
-<div style="text-align: center; margin-top: 25px; margin-bottom: 25px">
+<div align="center">
   <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" style="width: 25px" alt="loading git guy">
 
   [![My Skills](https://skillicons.dev/icons?i=idea,python,java,angular,ps,html,css,js,ts,ai&perline=5)](https://skillicons.dev)
