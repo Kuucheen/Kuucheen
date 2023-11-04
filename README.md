@@ -6,9 +6,9 @@
 
 ---
 <details>
-  <summary style="margin-bottom: 10px">Github Stats 🍁️</summary>
+  <summary>Github Stats 🍁️</summary>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuucheen&theme=tokyonight&count_private=true&line_height=20&hide_border=true" alt="Github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuucheen&theme=tokyonight&count_private=true&line_height=20&hide_border=true&show_icons=true" alt="Github stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuucheen&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Top languages">
 
 </details>
